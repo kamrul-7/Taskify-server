@@ -1,6 +1,6 @@
 {
     "version": 2,
-    "name": "music-album",
+    "name": "taskify-server",
     "builds": [
         {
             "src": "index.js",
